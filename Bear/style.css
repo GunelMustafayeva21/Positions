@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.bi-star {   float: left;
+    margin-left: 20px;
+    position: relative;
+    left:30%;
+    font-size: 30px;
+}
+.cleaner{
+    clear: both;
+}
+
+.complete{
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    max-width: 700px;
+   
+}
+.container{
+    float: left;
+    margin-left: 10px;
+}
+.c1, .c2{
+    padding-bottom: 20px;
+}
+.two{
+    color: green;
+}
+.left{
+    background-color: rgb(165, 161, 161);
+    color: white;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    left: 2.2%;
+    top:20px;
+}
+.right1, .right2, .right3{
+    background-color: green;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+    color: white;
+
+}
+.right1{
+    position: absolute;
+    left:87%;
+    top:20px;
+
+    
+}
+.right2{
+    position: absolute;
+    left:87%;
+    top:110px;
+    
+}
+.right3{
+    position: absolute;
+    left:87%;
+    top:200px;
+    
+}
+.hover{
+    position: relative;
+    z-index: 2;
+   
+    
+}
+.hover :hover{
+        z-index: 1;
+}
+

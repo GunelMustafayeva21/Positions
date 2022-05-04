@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.pic{
+    max-width: 2000px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img{
+    width: 95vw;
+}
+.text{
+    text-align: left;
+    max-width: 100vw;
+    padding-top: 10%;
+    padding-left: 30px;
+    
+}
+p{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.icon{
+    color: rgb(190, 138, 26);
+    font-size: 120px;
+    position:relative;
+    display: inline-block;
+    bottom:2300px;
+    font-weight: bolder;
+
+}
+.icon2{
+    left:85%;
+}
+.first{
+    background-color: #582f0e;
+    height: 100px;
+    width: 40%;
+    position: relative;
+    bottom:1950px;
+    left:6px;
+    padding-top: 30px;
+    padding-left: 40px;
+    
+}
+    
+.second{
+    background-color: #7f4f24;
+    height: 150px;
+    position: relative;
+    bottom:1950px;
+    margin-left: 6px;
+    margin-right: 36px;
+}
